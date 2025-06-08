@@ -1,7 +1,9 @@
 # Pneumonia Classification using ResNet-50 (Transfer Learning)
 
+This repository contains the code for an assignment focused on fine-tuning a ResNet-50 model to classify chest X-ray images as either 'Normal' or 'Pneumonia'. The project is implemented using PyTorch for the deep learning model and includes robust data handling, class imbalance mitigation, and overfitting prevention strategies.
+
 ## 📌 Objective
-Fine-tune a ResNet-50 model to classify chest X-ray images into Pneumonia and Normal categories using the PneumoniaMNIST dataset.
+The primary objective is to develop a robust deep learning model for distinguishing pneumonia from normal chest X-rays, addressing challenges such as class imbalance and preventing overfitting, and reporting the model's performance using appropriate metrics.
 
 ## 📁 Dataset
 - **Name**: PneumoniaMNIST
