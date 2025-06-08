@@ -24,7 +24,7 @@ conda install matplotlib
 conda install scikit-learn
 ```
 
-## Install Required Libraries
+## 📈 Install Required Libraries
 
 ```bash
 # TensorFlow (specific version)
