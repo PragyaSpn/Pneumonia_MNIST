@@ -1,0 +1,14 @@
+# Python version
+python==3.10
+
+# TensorFlow
+tensorflow==2.19.0
+
+# Jupyter kernel support
+ipykernel
+
+# Visualization
+matplotlib
+
+# Machine learning utilities
+scikit-learn
