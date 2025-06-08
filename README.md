@@ -40,13 +40,13 @@ jupyter notebook
 
 ## 🔧 Hyperparameters
 Parameter	| Value
-----------------
+
 Learning Rate | 0.001
-----------------
+
 Batch Size |	32
-----------------
+
 Epochs |	15
-----------------
+
 
 ## ⚖️ Class Imbalance Handling
 - Used stratified split and class weights in the loss function to handle imbalance.
