@@ -24,6 +24,23 @@ conda install matplotlib
 conda install scikit-learn
 ```
 
+## Install Required Libraries
+
+```bash
+# TensorFlow (specific version)
+pip install tensorflow==2.19.0
+
+# Jupyter kernel support
+pip install ipykernel
+python -m ipykernel install --user --name=tf_env --display-name "Python tf_env"
+
+# Data visualization
+conda install matplotlib
+
+# Machine learning tools
+conda install scikit-learn
+```
+
 ## 🚀 How to Run
 1. Open Jupyter Notebook:
 ```bash
